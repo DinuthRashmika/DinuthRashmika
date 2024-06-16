@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React.js/Node.js (Express.js)**
 
-- 💬 Ask me about **Web development**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Web development|OOC**
 
 - 📫 How to reach me **dinuthwelandagoda@gmail.com**
 
